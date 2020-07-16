@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **Java, JavaScript, Machine Learning and Algorithms**
-- 📫 How to reach me: [@IRONAnthony96](https://twitter.com/IRONAnthony96)
+- 📫 How to reach me: [@IRONAnthony96](https://twitter.com/IRONAnthony96) Twitter or [IRONAnthony](http://weibo.com/u/7458439346) Weibo
 
 -------
 
