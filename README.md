@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm AndyFree96.</h2>
 <p align="center">
-  <a href="http://andyfree96.github.io">Blog</a> •
+  <a href="https://andyfree96.github.io/">Blog</a> •
   <a href="https://twitter.com/IRONAnthony96">Twitter</a>
 </p>
 
