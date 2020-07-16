@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **Java, JavaScript, Machine Learning and Algorithms**
-- 💬 Ask me about **Python and Git**
 - 📫 How to reach me: [@IRONAnthony96](https://twitter.com/IRONAnthony96)
 
 -------
