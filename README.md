@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">👋 Hello! I'm AndyFree96.</h2>
+<p align="center">
+  <a href="http://andyfree96.github.io">Blog</a> •
+  <a href="https://twitter.com/IRONAnthony96">Twitter</a>
+</p>
+
+
+- 🌱 I’m currently learning **Java, JavaScript, Machine Learning and Algorithms**
+- 💬 Ask me about **Python and Git**
+- 📫 How to reach me: [@IRONAnthony96](https://twitter.com/IRONAnthony96)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
