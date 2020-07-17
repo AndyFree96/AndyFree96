@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-
+Java        24 mins             █████████████████████████   100.0
 ```
 <!--END_SECTION:waka-->
