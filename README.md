@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Markdown    4 hrs 35 mins       █████████████████████████   100.0
+Markdown    5 hrs 20 mins       ███████████████████████░░   95.38 
+Python      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62
 ```
 <!--END_SECTION:waka-->
 
