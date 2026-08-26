@@ -1,9 +1,16 @@
 ## Hi, I'm Anthony 👋
 
-- 💻 Software Engineer → Automation & Device Development
-- 🏭 Automation Equipment · Machine Vision · Software Architecture
-- 🤖 AI / LLM · Developer Tools · Open Source
-- 🚀 Building things that connect software with the real world
+**Software Engineer → Automation & Device Development**
+
+I build software that connects **code, machines, vision, and the real world**.
+
+- 💻 Software Engineering · System Design · Software Architecture
+- 🏭 Automation Equipment · Industrial Control · Device Software
+- 👁️ Machine Vision · HALCON · Image Processing
+- 🤖 AI / LLM · Deep Learning · Computer Vision
+- 🧰 Developer Tools · Cross-platform Applications · Open Source
+- ⚙️ C# / .NET · TypeScript · Node.js · Python · Rust
+- 🚀 Building practical software systems from low-level device interfaces to high-level applications
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,11 +43,32 @@ My current focus sits at the intersection of:
 
 I enjoy going deep into systems — from hardware interfaces and industrial communication to algorithms, application architecture and developer tooling.
 
-My long-term goal is to become a **Device Software / Automation Control Architect**, while developing deep expertise in **Machine Vision and AI**.
+My long-term goal is to become a **Device Software / Automation Control Architect**, while developing deep expertise in **Machine Vision, AI, and Software Architecture**.
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=AndyFree96&hide_border=true)
+
+## Writing & Learning
+
+I also document things I'm learning through technical articles and notes.
+
+Topics include:
+
+- Machine Learning
+- LLMs
+- Computer Vision
+- Machine Vision
+- YOLO
+- Node.js
+- Software Architecture
+- C# / .NET / TypeScript / JavaScript / Node.js / C++ / Python
+- Open-source source code analysis
+- Algorithms & Data Structures
+
+Writing is part of my learning process:
+
+**Learn → Build → Analyze → Write → Share**
 
 ## Connect
 
@@ -48,3 +76,13 @@ My long-term goal is to become a **Device Software / Automation Control Architec
 [![Bluesky](https://img.shields.io/badge/-anthonyfree-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonyfree.bsky.social)
 [![Blog](https://img.shields.io/badge/-andyfree96-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://andyfree96.github.io/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndyFree96)
+
+## ⚡ Let's Build Something
+
+If you're interested in:
+
+**Software Architecture · Automation · Machine Vision · AI · Developer Tools · Open Source**
+
+feel free to connect.
+
+> Build systems. Understand deeply. Share what you learn.
