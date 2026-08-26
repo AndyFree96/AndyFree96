@@ -38,6 +38,10 @@ I enjoy going deep into systems — from hardware interfaces and industrial comm
 
 My long-term goal is to become a **Device Software / Automation Control Architect**, while developing deep expertise in **Machine Vision and AI**.
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=AndyFree96&hide_border=true)
+
 ## Connect
 
 [![IRONAnthony96](https://img.shields.io/badge/-IRONAnthony-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/IRONAnthony96)
