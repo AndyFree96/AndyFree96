@@ -45,6 +45,10 @@ I enjoy going deep into systems — from hardware interfaces and industrial comm
 
 My long-term goal is to become a **Device Software / Automation Control Architect**, while developing deep expertise in **Machine Vision, AI, and Software Architecture**.
 
+## Current Projects
+
+- 📂 [FindMind](https://github.com/AndyFree96/FileMind) - A cross-platform file monitoring desktop app
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=AndyFree96&hide_border=true)
