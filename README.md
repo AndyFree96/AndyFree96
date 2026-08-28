@@ -148,8 +148,8 @@ I build software that connects **code, machines, vision, and the real world**.
                 <br>Java
             </td>
             <td align="center" width="96">
-                <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" width="48" height="48" alt="Android" />
-                <br>Android
+                <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matlab" />
+                <br>Matlab
             </td>
             <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="48" height="48" alt="PowerShell" />
@@ -158,6 +158,14 @@ I build software that connects **code, machines, vision, and the real world**.
             <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" width="48" height="48" alt="GitLab" />
                 <br>GitLab
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <br>HTML
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+                <br>CSS
             </td>
         </tr>
     </table>
