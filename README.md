@@ -195,6 +195,7 @@ My long-term goal is to become a **Device Software / Automation Control Architec
 - ⚡ [zap](https://github.com/AndyFree96/zap) - A blazing-fast developer port and process manager for the command line
 - 🌐 [EasyMock](https://github.com/AndyFree96/easy-mock) - EasyMock is a lightweight API mocking platform that helps frontend developers create mock REST APIs, manage responses, and speed up frontend-backend development
 - 💡 [GitIgnore.Cli](https://github.com/AndyFree96/gitignore.cli) - Interactive .gitignore generator CLI built with Spectre.Console
+- 📢 [comm-scope](https://github.com/AndyFree96/comm-scope) - A developer-focused traffic monitor for Serial / TCP / UDP.
 
 ## GitHub Activity
 
