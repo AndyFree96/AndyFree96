@@ -198,6 +198,7 @@ My long-term goal is to become a **Device Software / Automation Control Architec
 - 📢 [comm-scope](https://github.com/AndyFree96/comm-scope) - A developer-focused traffic monitor for Serial / TCP / UDP
 - 🌊 [source-dive](https://github.com/AndyFree96/source-dive) - Dive into the source code
 - 🌌 [physics-lab](https://github.com/AndyFree96/physics-lab) - Interactive physics & simulation playground build with web technologies
+- 🧠 [know-flow](https://github.com/AndyFree96/know-flow) - 一个轻量、易理解、可扩展的 RAG 知识库问答系统
 
 ## GitHub Activity
 
