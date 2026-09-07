@@ -189,7 +189,7 @@ I enjoy going deep into systems — from hardware interfaces and industrial comm
 
 My long-term goal is to become a **Device Software / Automation Control Architect**, while developing deep expertise in **Machine Vision, AI, and Software Architecture**.
 
-## Current Projects
+## 🚀 Current Projects
 
 - 📂 [FindMind](https://github.com/AndyFree96/FileMind) - A cross-platform file monitoring desktop app
 - ⚡ [zap](https://github.com/AndyFree96/zap) - A blazing-fast developer port and process manager for the command line
@@ -204,7 +204,7 @@ My long-term goal is to become a **Device Software / Automation Control Architec
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=AndyFree96&hide_border=true)
 
-## Writing & Learning
+## 📚 Writing & Learning
 
 I also document things I'm learning through technical articles and notes.
 
@@ -225,7 +225,13 @@ Writing is part of my learning process:
 
 **Learn → Build → Analyze → Write → Share**
 
-## Connect
+## ☕ Support My Work
+
+If my projects or articles help you, you can support my open-source work.
+
+[Buy Me a Coffee](https://afdian.com/a/andyfree96) [赞赏支持](https://afdian.com/a/andyfree96)
+
+## 📫 Connect
 
 [![IRONAnthony96](https://img.shields.io/badge/-IRONAnthony-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/IRONAnthony96)
 [![Bluesky](https://img.shields.io/badge/-anthonyfree-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonyfree.bsky.social)
