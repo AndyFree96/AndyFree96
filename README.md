@@ -225,12 +225,6 @@ Writing is part of my learning process:
 
 **Learn → Build → Analyze → Write → Share**
 
-## ☕ Support My Work
-
-If my projects or articles help you, you can support my open-source work.
-
-[Buy Me a Coffee](https://afdian.com/a/andyfree96) [赞赏支持](https://afdian.com/a/andyfree96)
-
 ## 📫 Connect
 
 [![IRONAnthony96](https://img.shields.io/badge/-IRONAnthony-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/IRONAnthony96)
@@ -240,6 +234,14 @@ If my projects or articles help you, you can support my open-source work.
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndyFree96)
 [![Email](https://img.shields.io/badge/Email-anthonyfree96@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyfree96@gmail.com)
 [![Blog](https://img.shields.io/badge/-andyfree96-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://andyfree96.github.io/)
+
+## ☕ Support My Work
+
+If my projects or articles help you, you can support my open-source work.
+
+[Buy Me a Coffee](https://afdian.com/a/andyfree96) 
+
+[赞赏支持](https://afdian.com/a/andyfree96)
 
 ## ⚡ Let's Build Something
 
