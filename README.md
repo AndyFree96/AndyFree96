@@ -229,7 +229,7 @@ Writing is part of my learning process:
 
 [![IRONAnthony96](https://img.shields.io/badge/-IRONAnthony-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/IRONAnthony96)
 [![Bluesky](https://img.shields.io/badge/-anthonyfree-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonyfree.bsky.social)
-[![WeChat](https://img.shields.io/badge/WeChat-IRAnthony-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+[![WeChat](https://img.shields.io/badge/WeChat-AnthonyFree96-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 [![QQ](https://img.shields.io/badge/-2177464808-12B7F5?style=flat-square&logo=qq&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndyFree96)
 [![Email](https://img.shields.io/badge/Email-anthonyfree96@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyfree96@gmail.com)
